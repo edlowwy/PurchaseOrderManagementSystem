@@ -1,0 +1,2 @@
+Eddy,SM0001,salesManagerAPU,salesManager123,salesmanager
+John,SM0002,johnAPU,john123,salesmanager

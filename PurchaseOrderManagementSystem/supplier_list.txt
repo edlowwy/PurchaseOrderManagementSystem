@@ -1,0 +1,2 @@
+S0001|MarketPlace|I0001,I0002|Lot10, SaintRoad 11, Stranger Town, 93800 New York|Rick|169755846|marketplace@gmail.com
+S0002|The Vege House ||Lot 100, Wembley Road, Town of Boston, 43277 Boston|Eric|548897532|tvh@gmail.com
