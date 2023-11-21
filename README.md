@@ -1,5 +1,5 @@
-# PurchaseOrderManagementSystem
-Purchase Order Management System
+# Purchase Order Management System
+
 This is a robust and efficient Purchase Order Management System meticulously crafted with Java, employing sophisticated Object-Oriented principles. 
 This Java application, built with Object-Oriented Programming (OOP) techniques, offers a range of functionalities, including:
 Login Access: The system provides three types of access rights: Sales Manager, Purchase Manager, and Administrator.
